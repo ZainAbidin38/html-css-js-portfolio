@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'html-css-js-portfolio'
+app = 'zain-portfolio'
 primary_region = 'ewr'
 
 [build]
