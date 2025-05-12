@@ -1,4 +1,4 @@
-# fly.toml app configuration file generated for html-css-js-portfolio on 2025-01-15T13:32:04-05:00
+# fly.toml app configuration file generated for zain-portfolio on 2025-05-12T20:42:44Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
@@ -20,3 +20,4 @@ primary_region = 'ewr'
   memory = '1gb'
   cpu_kind = 'shared'
   cpus = 1
+  memory_mb = 1024
